@@ -1,7 +1,7 @@
  # Sanket_85!kori
  
-rerresanke
-arrrange
+sanket
+rearrange
  game
 avengers
 music
