@@ -16,3 +16,4 @@ harry potter
 teach you a lesson
 weak hero
 Game of thrones
+Loki 
