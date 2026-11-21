@@ -6,6 +6,7 @@ rearrange
  game
 avengers
 music
+cricket 
 dance
  hello world
 buddy
